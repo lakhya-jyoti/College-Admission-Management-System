@@ -5,6 +5,8 @@ The College Admission Management System, developed using PHP, MySQL, HTML, CSS, 
 **Tech Stack**
 
 Frontend: HTML, CSS, Bootsrap, Jquery, Ajax
+
 Backend: PHP, Javascript
+
 Database: MySQL
 
